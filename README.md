@@ -1,18 +1,13 @@
-## Getting Started
+# FizzBuzz
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## **What is this project?**
 
-## Folder Structure
+FizzBuzz is a classic programming challenge often used in coding interviews and beginner exercises to test basic logic and control flow skills. It tests the programmer's knowledge of basic loops, logic, and modulous divison.
 
-The workspace contains two folders by default, where:
+- Print numbers from 1 to 100
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- If a number is divisible by 3, print "Fizz" instead.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- If a number is divisible by 5, print "Buzz" instead.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- If a number is divisible by both 3 and 5, print "FizzBuzz" instead.
